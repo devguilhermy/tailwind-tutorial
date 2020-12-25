@@ -1,4 +1,3 @@
-# tailwind-tutorial
-TailwindCSS tutorial course
+# TailwindCSS Tutorial
 
 Live Preview: https://tailwind-tutorial.vercel.app/
