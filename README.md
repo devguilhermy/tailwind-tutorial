@@ -1,2 +1,3 @@
-# tailwind-tutorial
-TailwindCSS Tutorial from Adam Wathan
+# TailwindCSS Tutorial
+
+Live Preview: https://tailwind-tutorial.vercel.app/
